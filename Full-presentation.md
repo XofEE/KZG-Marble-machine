@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This presentation aims to supplement the information found in the Readme file.
+This presentation aims to supplement the information found in the [Readme file](/README.md).
 
 If you want more information about the KZG Ceremony, you can find it on the dedicated [GitHub Pages](https://github.com/ethereum/kzg-ceremony).
 
@@ -62,8 +62,7 @@ In September 2022, we move to proof of stake with the marbles flowing between th
 
 We then reach the layer 2, which operates in parallel ⛓️ with Ethereum to improve scalability.
 
-<img src="/images-videos/AnimationSD010.gif" width="576" height="324">
-
+<img src="/images-videos/AnimationSD10.gif" width="576" height="324">
 
 
 We arrive at a blob that absorbs data to make more room for the layer 2s. The KZG ceremony 🕯️ with the EIP 4844 will enable the deployment of this new data type.

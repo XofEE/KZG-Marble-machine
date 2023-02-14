@@ -7,6 +7,45 @@ Resources and documentation related to the KZG Marble machine.
 This machine was built by [Xofee](https://twitter.com/Xofee3) in order to generate randomness to participate in the KZG ceremony.
 It uses chaos theory to capture entropy.
 
+If you want more information about the KZG Ceremony, you can find it on the dedicated [GitHub Pages](https://github.com/ethereum/kzg-ceremony).
+To see the machine in operation, go to this [video](https://www.youtube.com/watch?v=zKrcUxOeBF4).
+
+## Presentation
+
+The machine is a marble circuit. There are 13 obstacles retracing in chronological order the history of ethereum.
+
+- White paper
+- First blocks
+- Attacks
+- NFT madness
+- Maze of the DEFI
+- The Burn
+- Mining area
+- The Merge
+- FDlow of staking
+- Layers 2
+- Data Blob
+- Vision of the future
+- Rocket lift
+
+A complete description of each obstacle can be found in the file [Full-presentation.md](/Full-presentation.md)
+
+## How it works
+
+Thanks to a set of sensors, it reacts to the marble and its environment to generate random values
+
+To contribute to the KZG ceremony, the machine will directly generate a long queue of random values which will be used as a secret.
+This secret will not be recorded and will therefore be lost after participation.
+
+## Random facts about the machine and its construction
+
+-It took a total of more than 8 days of 3D printing to make all the pieces.
+-A marble is detected by the sensor on average every 2.5s
+-It takes about 25s for a ball to complete the full course.
+-There are 42 marbles in the circuit in total, 30 of which are in the elevator.
+
+
+
 
 ## Source of entropy
 
@@ -62,6 +101,7 @@ In other words, a modulo 10 will come down to looking at the last value of a sen
 - 1 x Mic Adafruit MAX4466
 - 1 x Brightness sensor Iduino 1485310
 - 1 x Ultrasonic sensor 28015 REV C
+- 2 x Strip of Neopixels LED
 
 
 

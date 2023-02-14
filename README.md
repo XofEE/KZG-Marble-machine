@@ -1,4 +1,4 @@
-# KZG-Marble-machine by xoffe
+# KZG-Marble-machine by Xofee
 
 Resources and documentation related to the KZG Marble machine.
 

@@ -12,7 +12,7 @@ To see the machine in operation, go to this [video](https://www.youtube.com/watc
 
 ## Presentation
 
-The machine is a marble circuit. There are 13 obstacles retracing in chronological order the history of ethereum.
+The machine is a marble circuit. There are 13 obstacles retracing in chronological order the history of Ethereum :
 
 - White paper
 - First blocks
@@ -32,9 +32,12 @@ A complete description of each obstacle can be found in the file [Full-presentat
 
 ## How it works
 
-Thanks to a set of sensors, it reacts to the marble and its environment to generate random values
+Thanks to a set of sensors, it measures the time between marbles and it also reacts to its external environment.
 
-To contribute to the KZG ceremony, the machine will directly generate a long queue of random values which will be used as a secret.
+Each time a ball completes the course, it is detected by a sensor.This causes a measurement on all the other sensors and also some light animations.
+These values are then aggregated and then output via USB.
+
+To contribute to the KZG ceremony, the machine will directly generate a long string of random values which will be used as a secret.
 This secret will not be recorded and will therefore be lost after participation.
 
 ## Random facts about the machine and its construction
@@ -43,6 +46,8 @@ This secret will not be recorded and will therefore be lost after participation.
 -A marble is detected by the sensor on average every 2.5s
 -It takes about 25s for a ball to complete the full course.
 -There are 42 marbles in the circuit in total, 30 of which are in the elevator.
+-The course measures more than 4m in total.
+-The longest obstacle is the DEFI maze which alone represents a quarter of the course.
 
 
 

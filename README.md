@@ -41,7 +41,7 @@ Some obstacles are mechanical or motorized with servomotors. The latter also ser
 The course is embellished with animated LEDs to make it more entertaining.
 The public present in front of the machine also participates in the entropy thanks to the microphone, light sensor and the ultrasonic sensor which measures the distance of the public from the machine.
 
-To contribute to the KZG ceremony, the machine will directly generate a long string of random values which will be used as a secret.
+To contribute to the KZG ceremony, the machine will directly generate a new long string of random values which will be used as a secret.
 **This secret will not be recorded and will therefore be lost after participation.**
 
 This special contribution for the KZG ceremony will take place after mid-March.

@@ -5,7 +5,9 @@ Resources and documentation related to the KZG Marble machine.
 ## Summary
 
 This machine was built by [Xofee](https://twitter.com/Xofee3) in order to generate randomness to participate in the KZG ceremony.
-It uses chaos theory to capture entropy.
+It uses chaos theory to capture entropy. The KZG Marble Machine is a physical device that generates random numbers using the natural randomness of marble movement.
+
+The KZG Ceremony is a public ritual aimed at providing a cryptographic foundation for Ethereum scaling efforts like proto-danksharding.
 
 If you want more information about the KZG Ceremony, you can find it on the dedicated [GitHub Pages](https://github.com/ethereum/kzg-ceremony).
 To see the machine in operation, go to this [video](https://www.youtube.com/watch?v=zKrcUxOeBF4).
@@ -45,6 +47,10 @@ To contribute to the KZG ceremony, the machine will directly generate a new long
 **This secret will not be recorded and will therefore be lost after participation.**
 
 This special contribution for the KZG ceremony will take place after mid-March.
+
+The KZG Marble Machine uses a physical process to generate randomness, which means it is not subject to the same potential biases and patterns that can be present in pseudorandom number generators. This can provide a higher level of security in applications where true randomness is essential.
+
+The KZG Marble Machine is a physical device, which means it is more resistant to tampering than a software-based random number generator. If an attacker wants to manipulate the output of the KZG Marble Machine, they would need to physically access the device and interfere with the marbles, which can be more difficult than manipulating software.
 
 ## Random facts about the machine and its construction
 

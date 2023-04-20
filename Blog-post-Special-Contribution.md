@@ -45,7 +45,7 @@ For more information on the KZG Marble Machine and the process, please visit the
 The machine is fully opensourced. All 3D files, programs and component list are available on Github.
 
 ## Proof of Contribution:
-As proof of my contribution, here is a screenshot of the sequencer showing my Ethereum address and contribution number:
+As proof of my contribution, here is a screenshot of the sequencer showing my Ethereum address ( xofee.eth : 0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE ) and contribution number (#83329) .
 
 <img src="/images-videos/Contribution.png" width="576" height="324">
 
